@@ -1,0 +1,2 @@
+# MercuryTestProject
+Project for Git
